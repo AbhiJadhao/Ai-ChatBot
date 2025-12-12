@@ -14,7 +14,7 @@ Backend: Node.js, Express, MongoDB, Mongoose, JWT, OpenAI API
 Installation
 Clone the repository:
 
-git clone https://github.com/your-username/AI-SaaS-Chat-Bot.git
+git clone https://github.com/AbhiJadhao/AI-SaaS-Chat-Bot.git
 cd AI-SaaS-Chat-Bot
 Install dependencies for the backend:
 
